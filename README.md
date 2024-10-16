@@ -151,6 +151,8 @@ int main() {
 
 ## OUTPUT:
 ![os exp 6 sc 1](https://github.com/user-attachments/assets/30c34217-6d06-436d-866f-c92f340fdedc)
+
+
 ![os exp 6 sc 2](https://github.com/user-attachments/assets/1c21a220-f6ce-43c0-bf9f-7566d5254ad4)
 ![os exp 6 sc 3](https://github.com/user-attachments/assets/7efea50b-64b9-437c-a82b-e2fb7f01892b)
 
